@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/let there be light/" zoom="0.675">
+	<sprite x="-625" sprite="lettherebebg" y="-449" updateHitbox="true" scale="1.07" name="bg1"/>
+	<sprite x="-625" sprite="BackGround" y="-449" updateHitbox="true" scale="1.7" alpha="0" name="BackGround"/>
+	<gf alpha="0"/>
+	<sprite x="-762" sprite="junkfire" y="-352" updateHitbox="true" scale="1.7" alpha="0" type="loop" name="junkfire"/>
+	<dad x="977" y="43"/>
+	<char x="592" alpha="0" y="-351" name="dustmanp2ref"/>
+	<sprite x="-625" sprite="Junk" y="-449" updateHitbox="true" scale="1.7" alpha="0" name="Junk"/>
+	<bf x="-203" camxoffset="950" flip="false" y="41" camyoffset="140"/>
+	<combo/>
+	<char x="466" alpha="0" y="255" name="megamanp2ref"/>
+	<sprite x="-625" y="-449" scale="1.7" sprite="empty" name="cutscene"/>
+</stage>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="megamanltbl1" camx="-700" camy="75" isPlayer="true" icon="icon-megamanlight" gameOverChar="post-death" color="#0028ff" holdTime="6.1">
+	<anim name="singDOWN" anim="Down0" x="-21" y="-226" fps="24" loop="false"/>
+	<anim name="idle" anim="Idle0" x="-24" y="-195" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Left0" x="-36" y="-203" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Right0" x="-45" y="-177" fps="24" loop="false"/>
+	<anim name="singUP" anim="Up0" x="-48" y="-115" fps="24" loop="false"/>
+</character>

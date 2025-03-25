@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="dustmanltbl" camx="-300" camy="70" icon="icon-dustmanlight" gameOverChar="post-death" color="#0028ff" holdTime="6.1">
+	<anim name="singDOWN" anim="Down0" x="25" y="-127" fps="24" loop="false"/>
+	<anim name="idle" anim="Idle0" x="-25" y="-75" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Left0" x="-22" y="-70" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Right0" x="-15" y="-74" fps="24" loop="false"/>
+	<anim name="singUP" anim="Up0" x="7" y="-50" fps="24" loop="false"/>
+</character>
